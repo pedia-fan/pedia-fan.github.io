@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>🧱 建站 on pedia&#39;s blog</title>
+    <title>🧱 知识 on pedia&#39;s blog</title>
     <link>https://pedia-fan.github.io/posts/blog/</link>
-    <description>Recent content in 🧱 建站 on pedia&#39;s blog</description>
+    <description>Recent content in 🧱 知识 on pedia&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 May 2022 00:18:23 +0800</lastBuildDate><atom:link href="https://pedia-fan.github.io/posts/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:18:23 +0800</lastBuildDate><atom:link href="https://pedia-fan.github.io/posts/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://pedia-fan.github.io/posts/blog/blog/</link>
-      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
+      <title>西方文明简史：希腊文明</title>
+      <link>https://pedia-fan.github.io/posts/blog/the_greek_civilization/</link>
+      <pubDate>Wed, 08 Mar 2023 00:18:23 +0800</pubDate>
       
-      <guid>https://pedia-fan.github.io/posts/blog/blog/</guid>
-      <description></description>
+      <guid>https://pedia-fan.github.io/posts/blog/the_greek_civilization/</guid>
+      <description>克里斯蒂尼改革 苏格拉底之死 希腊化时代 谁能代表希腊</description>
     </item>
     
   </channel>

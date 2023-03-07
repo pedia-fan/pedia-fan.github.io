@@ -6,14 +6,14 @@
     <description>Recent content in tech on pedia&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 05 May 2022 00:17:58 +0800</lastBuildDate><atom:link href="https://pedia-fan.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:17:58 +0800</lastBuildDate><atom:link href="https://pedia-fan.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tech</title>
-      <link>https://pedia-fan.github.io/posts/tech/tech/</link>
-      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
+      <title>ns-3快速入门</title>
+      <link>https://pedia-fan.github.io/posts/tech/ns_3_introduction/</link>
+      <pubDate>Wed, 08 Mar 2023 00:17:58 +0800</pubDate>
       
-      <guid>https://pedia-fan.github.io/posts/tech/tech/</guid>
-      <description>科技代码</description>
+      <guid>https://pedia-fan.github.io/posts/tech/ns_3_introduction/</guid>
+      <description>此文章帮助你快速入门ns-3，理解底层逻辑。</description>
     </item>
     
   </channel>

@@ -6,50 +6,50 @@
     <description>Recent content on pedia&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Feb 2023 12:20:21 +0800</lastBuildDate><atom:link href="https://pedia-fan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:18:23 +0800</lastBuildDate><atom:link href="https://pedia-fan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tech1</title>
-      <link>https://pedia-fan.github.io/posts/tech/tech1/</link>
+      <title>西方文明简史：希腊文明</title>
+      <link>https://pedia-fan.github.io/posts/blog/the_greek_civilization/</link>
+      <pubDate>Wed, 08 Mar 2023 00:18:23 +0800</pubDate>
+      
+      <guid>https://pedia-fan.github.io/posts/blog/the_greek_civilization/</guid>
+      <description>克里斯蒂尼改革 苏格拉底之死 希腊化时代 谁能代表希腊</description>
+    </item>
+    
+    <item>
+      <title>可持续生活：自制无患子皂液</title>
+      <link>https://pedia-fan.github.io/posts/life/eco_sapindus/</link>
+      <pubDate>Wed, 08 Mar 2023 00:18:15 +0800</pubDate>
+      
+      <guid>https://pedia-fan.github.io/posts/life/eco_sapindus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2023年书单</title>
+      <link>https://pedia-fan.github.io/posts/read/reading_list_2023/</link>
+      <pubDate>Wed, 08 Mar 2023 00:18:06 +0800</pubDate>
+      
+      <guid>https://pedia-fan.github.io/posts/read/reading_list_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ns-3快速入门</title>
+      <link>https://pedia-fan.github.io/posts/tech/ns_3_introduction/</link>
+      <pubDate>Wed, 08 Mar 2023 00:17:58 +0800</pubDate>
+      
+      <guid>https://pedia-fan.github.io/posts/tech/ns_3_introduction/</guid>
+      <description>此文章帮助你快速入门ns-3，理解底层逻辑。</description>
+    </item>
+    
+    <item>
+      <title>MARL算法：QMIX</title>
+      <link>https://pedia-fan.github.io/posts/tech/marl_qmix/</link>
       <pubDate>Tue, 21 Feb 2023 12:20:21 +0800</pubDate>
       
-      <guid>https://pedia-fan.github.io/posts/tech/tech1/</guid>
+      <guid>https://pedia-fan.github.io/posts/tech/marl_qmix/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://pedia-fan.github.io/posts/blog/blog/</link>
-      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
-      
-      <guid>https://pedia-fan.github.io/posts/blog/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>https://pedia-fan.github.io/posts/life/life/</link>
-      <pubDate>Thu, 05 May 2022 00:18:15 +0800</pubDate>
-      
-      <guid>https://pedia-fan.github.io/posts/life/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Read</title>
-      <link>https://pedia-fan.github.io/posts/read/read/</link>
-      <pubDate>Thu, 05 May 2022 00:18:06 +0800</pubDate>
-      
-      <guid>https://pedia-fan.github.io/posts/read/read/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://pedia-fan.github.io/posts/tech/tech/</link>
-      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
-      
-      <guid>https://pedia-fan.github.io/posts/tech/tech/</guid>
-      <description>科技代码</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@
       <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
       
       <guid>https://pedia-fan.github.io/about/</guid>
-      <description>自我介绍 在前22年的人生里，九年在内蒙，九年在北京，目前是在南京的第四个年头，还会在这里再读三年书。 很喜欢南京这座城市，我的精神老家，这里有历史积淀的文化底蕴，也有多元、开放、包容的精神内核。在学校之外，我走遍了烟火气息的小巷子，成为了那些南京人口口相传里的宝藏小店中的常客，还遇</description>
+      <description>自我介绍 在前二十二年的人生里，九年在内蒙，九年在北京，目前是在南京的第四个年头，还将在这里继续读三年书。 很喜欢南京这座城市，我的精神老家，这里有历史积淀的文化底蕴，也有多元、开放、包容的精神内核。在学校之外，我走遍了烟火气息的小巷子，成为了那些南京人口口相传里的宝藏小店中的常客，</description>
     </item>
     
     
