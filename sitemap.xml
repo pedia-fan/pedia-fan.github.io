@@ -2,31 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pedia-fan.github.io/posts/read/reading_list/</loc>
-    <lastmod>2023-03-13T00:18:06+08:00</lastmod>
+    <loc>https://pedia-fan.github.io/posts/read/watching_list/</loc>
+    <lastmod>2023-03-16T15:07:06+08:00</lastmod>
   </url><url>
-    <loc>https://pedia-fan.github.io/posts/read/</loc>
-    <lastmod>2023-03-13T00:18:06+08:00</lastmod>
+    <loc>https://pedia-fan.github.io/posts/read/reading_list/</loc>
+    <lastmod>2023-03-16T00:18:06+08:00</lastmod>
   </url><url>
     <loc>https://pedia-fan.github.io/posts/</loc>
-    <lastmod>2023-03-13T00:18:06+08:00</lastmod>
+    <lastmod>2023-03-16T15:07:06+08:00</lastmod>
   </url><url>
     <loc>https://pedia-fan.github.io/</loc>
-    <lastmod>2023-03-13T00:18:06+08:00</lastmod>
-  </url><url>
-    <loc>https://pedia-fan.github.io/tags/%E6%B8%85%E5%8D%95/</loc>
-    <lastmod>2023-03-13T00:18:06+08:00</lastmod>
-  </url><url>
-    <loc>https://pedia-fan.github.io/tags/</loc>
-    <lastmod>2023-03-13T00:18:06+08:00</lastmod>
+    <lastmod>2023-03-16T15:07:06+08:00</lastmod>
   </url><url>
     <loc>https://pedia-fan.github.io/tags/%E6%97%A5%E8%AF%AD/</loc>
-    <lastmod>2022-03-09T00:18:23+08:00</lastmod>
+    <lastmod>2022-03-16T15:12:26+08:00</lastmod>
   </url><url>
-    <loc>https://pedia-fan.github.io/posts/blog/language_japanese_1/</loc>
-    <lastmod>2022-03-09T00:18:23+08:00</lastmod>
+    <loc>https://pedia-fan.github.io/posts/blog/language_japanese_4/</loc>
+    <lastmod>2022-03-16T15:12:26+08:00</lastmod>
+  </url><url>
+    <loc>https://pedia-fan.github.io/tags/</loc>
+    <lastmod>2023-03-16T15:07:06+08:00</lastmod>
   </url><url>
     <loc>https://pedia-fan.github.io/posts/blog/</loc>
+    <lastmod>2022-03-16T15:12:26+08:00</lastmod>
+  </url><url>
+    <loc>https://pedia-fan.github.io/posts/blog/language_japanese_3/</loc>
+    <lastmod>2022-03-16T15:11:25+08:00</lastmod>
+  </url><url>
+    <loc>https://pedia-fan.github.io/posts/blog/language_japanese_2/</loc>
+    <lastmod>2022-03-16T15:10:24+08:00</lastmod>
+  </url><url>
+    <loc>https://pedia-fan.github.io/posts/read/</loc>
+    <lastmod>2023-03-16T15:07:06+08:00</lastmod>
+  </url><url>
+    <loc>https://pedia-fan.github.io/tags/%E6%B8%85%E5%8D%95/</loc>
+    <lastmod>2023-03-16T15:07:06+08:00</lastmod>
+  </url><url>
+    <loc>https://pedia-fan.github.io/posts/blog/language_japanese_1/</loc>
     <lastmod>2022-03-09T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://pedia-fan.github.io/posts/life/</loc>
