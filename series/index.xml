@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Clementine&#39;s Blog</title>
+    <link>https://pedia-fan.github.io/series/</link>
+    <description>Recent content in Series on Clementine&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>riceball_pedia@outlook.com (Clementine&#39;s Blog)</managingEditor>
+    <webMaster>riceball_pedia@outlook.com (Clementine&#39;s Blog)</webMaster>
+    <copyright>© 2025 Clementine&#39;s Blog</copyright>
+    <atom:link href="https://pedia-fan.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

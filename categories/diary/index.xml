@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary on Clementine&#39;s Blog</title>
+    <link>https://pedia-fan.github.io/categories/diary/</link>
+    <description>Recent content in Diary on Clementine&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>riceball_pedia@outlook.com (Clementine&#39;s Blog)</managingEditor>
+    <webMaster>riceball_pedia@outlook.com (Clementine&#39;s Blog)</webMaster>
+    <copyright>© 2025 Clementine&#39;s Blog</copyright>
+    <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pedia-fan.github.io/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>周报 #1 - 习惯成自然</title>
+      <link>https://pedia-fan.github.io/posts/202507-habits/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <author>riceball_pedia@outlook.com (Clementine&#39;s Blog)</author>
+      <guid>https://pedia-fan.github.io/posts/202507-habits/</guid>
+      <description>自然流畅地建立了阅读和锻炼的习惯；挑选礼物的体会；生活记录和下周期待。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/posts/202507-habits/featurepic.jpg" />
+    </item>
+    
+  </channel>
+</rss>

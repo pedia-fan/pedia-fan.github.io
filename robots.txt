@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pedia-fan.github.io/sitemap.xml
