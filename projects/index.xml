@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 橘子就是橘子🍊</title>
+    <link>https://pedia-fan.github.io/projects/</link>
+    <description>Recent content in Projects on 橘子就是橘子🍊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>riceball_pedia@outlook.com (Clementine)</managingEditor>
+    <webMaster>riceball_pedia@outlook.com (Clementine)</webMaster>
+    <copyright>© 2025 Clementine</copyright>
+    <lastBuildDate>Sun, 29 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pedia-fan.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>运动记录</title>
+      <link>https://pedia-fan.github.io/projects/exercise/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <author>riceball_pedia@outlook.com (Clementine)</author>
+      <guid>https://pedia-fan.github.io/projects/exercise/</guid>
+      <description>日常的运动记录，以及在运动中产生的想法和感受。Since 2025-06-29.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

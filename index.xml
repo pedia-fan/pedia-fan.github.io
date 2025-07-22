@@ -21,5 +21,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/posts/202507-w2/featurepic.jpg" />
     </item>
     
+    <item>
+      <title>运动记录</title>
+      <link>https://pedia-fan.github.io/projects/exercise/</link>
+      <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
+      <author>riceball_pedia@outlook.com (Clementine)</author>
+      <guid>https://pedia-fan.github.io/projects/exercise/</guid>
+      <description>日常的运动记录，以及在运动中产生的想法和感受。Since 2025-06-29.</description>
+      
+    </item>
+    
   </channel>
 </rss>
