@@ -21,5 +21,15 @@
       
     </item>
     
+    <item>
+      <title>书单</title>
+      <link>https://pedia-fan.github.io/projects/book/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <author>riceball_pedia@outlook.com (Clementine)</author>
+      <guid>https://pedia-fan.github.io/projects/book/</guid>
+      <description>一些读过/在读/想读的书。Since 2025-06-21.</description>
+      
+    </item>
+    
   </channel>
 </rss>

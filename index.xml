@@ -12,6 +12,16 @@
     <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pedia-fan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>周报 #2 - 朋友、社交和独处</title>
+      <link>https://pedia-fan.github.io/posts/202507-w3/</link>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+      <author>riceball_pedia@outlook.com (Clementine)</author>
+      <guid>https://pedia-fan.github.io/posts/202507-w3/</guid>
+      <description>朋友关系的全生命周期：开始、维系和结束；保护好自己的社交能量；生活记录和下周期待。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/posts/202507-w3/featurepic.jpg" />
+    </item>
+    
+    <item>
       <title>周报 #1 - 习惯成自然</title>
       <link>https://pedia-fan.github.io/posts/202507-w2/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
@@ -28,6 +38,16 @@
       <author>riceball_pedia@outlook.com (Clementine)</author>
       <guid>https://pedia-fan.github.io/projects/exercise/</guid>
       <description>日常的运动记录，以及在运动中产生的想法和感受。Since 2025-06-29.</description>
+      
+    </item>
+    
+    <item>
+      <title>书单</title>
+      <link>https://pedia-fan.github.io/projects/book/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <author>riceball_pedia@outlook.com (Clementine)</author>
+      <guid>https://pedia-fan.github.io/projects/book/</guid>
+      <description>一些读过/在读/想读的书。Since 2025-06-21.</description>
       
     </item>
     
