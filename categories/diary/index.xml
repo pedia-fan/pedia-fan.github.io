@@ -9,46 +9,56 @@
     <managingEditor>riceball_pedia@outlook.com (Clementine)</managingEditor>
     <webMaster>riceball_pedia@outlook.com (Clementine)</webMaster>
     <copyright>© 2025 Clementine</copyright>
-    <lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pedia-fan.github.io/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pedia-fan.github.io/categories/diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>周报 #4 - 蛰伏，沉淀，蓄势待发</title>
+      <link>https://pedia-fan.github.io/301-weekly/202508-w2/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <author>riceball_pedia@outlook.com (Clementine)</author>
+      <guid>https://pedia-fan.github.io/301-weekly/202508-w2/</guid>
+      <description>经济周期的分析和判断，个体如何把握机会；生活记录和下周期待。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/301-weekly/202508-w2/featurepic.jpg" />
+    </item>
     
     <item>
       <title>周报 #4 - 在焦虑中思考：念旧、情感投射与关系中的自我认同</title>
-      <link>https://pedia-fan.github.io/posts/202508-w1/</link>
+      <link>https://pedia-fan.github.io/301-weekly/202508-w1/</link>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
       <author>riceball_pedia@outlook.com (Clementine)</author>
-      <guid>https://pedia-fan.github.io/posts/202508-w1/</guid>
+      <guid>https://pedia-fan.github.io/301-weekly/202508-w1/</guid>
       <description>念旧、情感投射与关系中的自我认同；生活记录和下周期待。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/posts/202508-w1/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/301-weekly/202508-w1/feature.jpg" />
     </item>
     
     <item>
       <title>周报 #3 - 信守对自己的承诺</title>
-      <link>https://pedia-fan.github.io/posts/202507-w4/</link>
+      <link>https://pedia-fan.github.io/301-weekly/202507-w4/</link>
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
       <author>riceball_pedia@outlook.com (Clementine)</author>
-      <guid>https://pedia-fan.github.io/posts/202507-w4/</guid>
+      <guid>https://pedia-fan.github.io/301-weekly/202507-w4/</guid>
       <description>运动和疲劳；对反内卷政策的分析；信守对自己和生活的承诺；生活记录和下周期待。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/posts/202507-w4/featurepic.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/301-weekly/202507-w4/featurepic.jpg" />
     </item>
     
     <item>
       <title>周报 #2 - 朋友、社交和独处</title>
-      <link>https://pedia-fan.github.io/posts/202507-w3/</link>
+      <link>https://pedia-fan.github.io/301-weekly/202507-w3/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
       <author>riceball_pedia@outlook.com (Clementine)</author>
-      <guid>https://pedia-fan.github.io/posts/202507-w3/</guid>
+      <guid>https://pedia-fan.github.io/301-weekly/202507-w3/</guid>
       <description>朋友关系的全生命周期：开始、维系和结束；保护好自己的社交能量；生活记录和下周期待。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/posts/202507-w3/featurepic.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/301-weekly/202507-w3/featurepic.jpg" />
     </item>
     
     <item>
       <title>周报 #1 - 习惯成自然</title>
-      <link>https://pedia-fan.github.io/posts/202507-w2/</link>
+      <link>https://pedia-fan.github.io/301-weekly/202507-w2/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
       <author>riceball_pedia@outlook.com (Clementine)</author>
-      <guid>https://pedia-fan.github.io/posts/202507-w2/</guid>
+      <guid>https://pedia-fan.github.io/301-weekly/202507-w2/</guid>
       <description>自然流畅地建立了阅读和锻炼的习惯；挑选礼物的体会；生活记录和下周期待。</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/posts/202507-w2/featurepic.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://pedia-fan.github.io/301-weekly/202507-w2/featurepic.jpg" />
     </item>
     
   </channel>

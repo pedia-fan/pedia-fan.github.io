@@ -19,56 +19,83 @@
     />
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/posts/</loc>
+    <loc>https://pedia-fan.github.io/101-francais/</loc>
     <lastmod>2026-07-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/posts/202508-w1/</loc>
+    <loc>https://pedia-fan.github.io/301-weekly/</loc>
+    <lastmod>2026-07-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pedia-fan.github.io/301-weekly/202508-w2/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pedia-fan.github.io/301-weekly/202508-w1/</loc>
     <lastmod>2025-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/about/</loc>
+    <loc>https://pedia-fan.github.io/900-about/</loc>
     <lastmod>2025-07-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/posts/202507-w4/</loc>
+    <loc>https://pedia-fan.github.io/301-weekly/202507-w4/</loc>
     <lastmod>2025-07-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/posts/202507-w3/</loc>
+    <loc>https://pedia-fan.github.io/301-weekly/202507-w3/</loc>
     <lastmod>2025-07-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/posts/202507-w2/</loc>
+    <loc>https://pedia-fan.github.io/301-weekly/202507-w2/</loc>
     <lastmod>2025-07-13T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/projects/</loc>
+    <loc>https://pedia-fan.github.io/302-life-projects/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/projects/exercise/</loc>
+    <loc>https://pedia-fan.github.io/302-life-projects/exercise/</loc>
     <lastmod>2025-06-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pedia-fan.github.io/projects/book/</loc>
+    <loc>https://pedia-fan.github.io/302-life-projects/book/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pedia-fan.github.io/001-llm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pedia-fan.github.io/002-comm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://pedia-fan.github.io/200-projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
