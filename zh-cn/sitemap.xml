@@ -31,6 +31,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://pedia-fan.github.io/301-weekly/202508-w3/</loc>
+    <lastmod>2025-08-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://pedia-fan.github.io/301-weekly/202508-w2/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
